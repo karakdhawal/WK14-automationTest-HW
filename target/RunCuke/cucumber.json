@@ -1,0 +1,532 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7950701200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "User able to delete the item from the basket page",
+        "description": "",
+        "id": "automation-test-functionality;user-able-to-delete-the-item-from-the-basket-page",
+        "after": [
+          {
+            "result": {
+              "duration": 160500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 150398100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "DeletebuttonStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 188220000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover to women tab",
+            "match": {
+              "location": "DeletebuttonStepdefs.iMouseHoverToWomen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3709911900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on summer dresses",
+            "match": {
+              "location": "DeletebuttonStepdefs.iClickOnSummerDresses()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1742991200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on printed chiffon dress",
+            "match": {
+              "location": "DeletebuttonStepdefs.iClickOnPrintedChiffonDress()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 95739600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on add to cart",
+            "match": {
+              "location": "DeletebuttonStepdefs.iClickOnAddToCart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2270285100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on proceed to checkout",
+            "match": {
+              "location": "DeletebuttonStepdefs.iClickOnProceedToCheckout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 85217400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on delete button",
+            "match": {
+              "location": "DeletebuttonStepdefs.iClickOnDeleteButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1607049300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I can see Your Shopping cart is empty",
+            "match": {
+              "location": "DeletebuttonStepdefs.iCanSeeYourShoppingCartIsEmpty()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4377806900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "User can select Summer Dresses option from the Navigation Menu",
+        "description": "",
+        "id": "automation-test-functionality;user-can-select-summer-dresses-option-from-the-navigation-menu",
+        "after": [
+          {
+            "result": {
+              "duration": 76800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 27400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "DeletebuttonStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 611467900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I mouse hover to women tab",
+            "match": {
+              "location": "DeletebuttonStepdefs.iMouseHoverToWomen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2068218100,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on summer dresses",
+            "match": {
+              "location": "DeletebuttonStepdefs.iClickOnSummerDresses()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 72662300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I can see Summer items",
+            "match": {
+              "location": "SummerDressStepdefs.iCanSeeSummerItems()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5648826700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "User can change the range for summer dress",
+        "description": "",
+        "id": "automation-test-functionality;user-can-change-the-range-for-summer-dress",
+        "after": [
+          {
+            "result": {
+              "duration": 30600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 52400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "DeletebuttonStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 958218800,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I mouse hover to women tab",
+            "match": {
+              "location": "DeletebuttonStepdefs.iMouseHoverToWomen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2296225100,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I click on summer dresses",
+            "match": {
+              "location": "DeletebuttonStepdefs.iClickOnSummerDresses()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2096865800,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I slider change the price range",
+            "match": {
+              "location": "PriceRangeSliderStepdefs.iSliderChangeThePriceRange()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 23700,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I can see the search result is updated",
+            "match": {
+              "location": "PriceRangeSliderStepdefs.iCanSeeTheSearchResultIsUpdated()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 42866100,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I can see the items returned are within the price range",
+            "match": {
+              "location": "PriceRangeSliderStepdefs.iCanSeeTheItemsReturnedAreWithinThePriceRange()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4219125000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "User can not create account with invalid details",
+        "description": "",
+        "id": "automation-test-functionality;user-can-not-create-account-with-invalid-details",
+        "after": [
+          {
+            "result": {
+              "duration": 24000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 28000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "DeletebuttonStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8976194700,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I click on signin link",
+            "match": {
+              "location": "CreasteAccountStepdefs.iClickOnSigninLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 133026600,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I enter lorduku in email address field",
+            "match": {
+              "location": "CreasteAccountStepdefs.iEnterLordukuInEmailAddressField()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 121171700,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I click on create an account",
+            "match": {
+              "location": "CreasteAccountStepdefs.iClickOnCreateAnAccount()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8107051200,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "I see the error message Invalid email address",
+            "match": {
+              "location": "CreasteAccountStepdefs.iSeeTheErrorMessageInvalidEmailAddress()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6930934700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 34,
+        "name": "User can create new account successfully",
+        "description": "",
+        "id": "automation-test-functionality;user-can-create-new-account-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 26000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 31900,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "DeletebuttonStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6531397800,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "I click on signin link",
+            "match": {
+              "location": "CreasteAccountStepdefs.iClickOnSigninLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 173517700,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I enter valid email address",
+            "match": {
+              "location": "CreasteAccountStepdefs.iEnterValidEmailAddress()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 118488700,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "I click on create an account",
+            "match": {
+              "location": "CreasteAccountStepdefs.iClickOnCreateAnAccount()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11475092900,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "I fill all mandatory fields",
+            "match": {
+              "location": "CreasteAccountStepdefs.iFillAllMandatoryFields()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 29300,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "I click on Register Button",
+            "match": {
+              "location": "CreasteAccountStepdefs.iClickOnRegisterButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1057519000,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "I verify message my account",
+            "match": {
+              "location": "CreasteAccountStepdefs.iVerifyMessageMyAccount()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "automation test functionality",
+    "description": "",
+    "id": "automation-test-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/automationTest.feature"
+  }
+]
