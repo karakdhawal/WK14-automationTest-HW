@@ -43,5 +43,7 @@ Feature:   automation test functionality
     Scenario: User can drag the map to see West Palm Beach Store and take screen shot
       Given I am on Homepage
       When I click on our store
-      And I enter address West Palm Beach in store locator address field
-      And I click on store locator search button
+      And I move the page slider down
+      And I click on ok button
+      And I click minus button twice
+      Then I take screenshot

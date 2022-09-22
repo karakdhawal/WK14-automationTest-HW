@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 7950701200,
+  "duration": 7329403500,
   "status": "passed"
 });
 formatter.scenario({
@@ -62,64 +62,64 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 150398100,
+  "duration": 97171600,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iMouseHoverToWomen()"
 });
 formatter.result({
-  "duration": 188220000,
+  "duration": 176652100,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnSummerDresses()"
 });
 formatter.result({
-  "duration": 3709911900,
+  "duration": 1773360500,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnPrintedChiffonDress()"
 });
 formatter.result({
-  "duration": 1742991200,
+  "duration": 3423115600,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnAddToCart()"
 });
 formatter.result({
-  "duration": 95739600,
+  "duration": 74524700,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnProceedToCheckout()"
 });
 formatter.result({
-  "duration": 2270285100,
+  "duration": 2074134200,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnDeleteButton()"
 });
 formatter.result({
-  "duration": 85217400,
+  "duration": 94045500,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iCanSeeYourShoppingCartIsEmpty()"
 });
 formatter.result({
-  "duration": 1607049300,
+  "duration": 1904940000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 160500,
+  "duration": 92500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4377806900,
+  "duration": 4777971700,
   "status": "passed"
 });
 formatter.scenario({
@@ -154,36 +154,36 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 27400,
+  "duration": 64300,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iMouseHoverToWomen()"
 });
 formatter.result({
-  "duration": 611467900,
+  "duration": 221914900,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnSummerDresses()"
 });
 formatter.result({
-  "duration": 2068218100,
+  "duration": 3506507600,
   "status": "passed"
 });
 formatter.match({
   "location": "SummerDressStepdefs.iCanSeeSummerItems()"
 });
 formatter.result({
-  "duration": 72662300,
+  "duration": 39936300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 76800,
+  "duration": 35300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5648826700,
+  "duration": 4841947300,
   "status": "passed"
 });
 formatter.scenario({
@@ -228,28 +228,28 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 52400,
+  "duration": 90700,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iMouseHoverToWomen()"
 });
 formatter.result({
-  "duration": 958218800,
+  "duration": 230866500,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnSummerDresses()"
 });
 formatter.result({
-  "duration": 2296225100,
+  "duration": 4266035100,
   "status": "passed"
 });
 formatter.match({
   "location": "PriceRangeSliderStepdefs.iSliderChangeThePriceRange()"
 });
 formatter.result({
-  "duration": 2096865800,
+  "duration": 1464220000,
   "status": "passed"
 });
 formatter.match({
@@ -263,15 +263,15 @@ formatter.match({
   "location": "PriceRangeSliderStepdefs.iCanSeeTheItemsReturnedAreWithinThePriceRange()"
 });
 formatter.result({
-  "duration": 42866100,
+  "duration": 34641200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 30600,
+  "duration": 14500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4219125000,
+  "duration": 5703749300,
   "status": "passed"
 });
 formatter.scenario({
@@ -311,43 +311,43 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 28000,
+  "duration": 22300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnSigninLink()"
 });
 formatter.result({
-  "duration": 8976194700,
+  "duration": 2914795000,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iEnterLordukuInEmailAddressField()"
 });
 formatter.result({
-  "duration": 133026600,
+  "duration": 104304100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnCreateAnAccount()"
 });
 formatter.result({
-  "duration": 121171700,
+  "duration": 87341700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iSeeTheErrorMessageInvalidEmailAddress()"
 });
 formatter.result({
-  "duration": 8107051200,
+  "duration": 1154321200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 24000,
+  "duration": 20000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6930934700,
+  "duration": 5275175500,
   "status": "passed"
 });
 formatter.scenario({
@@ -397,53 +397,141 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 31900,
+  "duration": 40600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnSigninLink()"
 });
 formatter.result({
-  "duration": 6531397800,
+  "duration": 2013618300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iEnterValidEmailAddress()"
 });
 formatter.result({
-  "duration": 173517700,
+  "duration": 111736300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnCreateAnAccount()"
 });
 formatter.result({
-  "duration": 118488700,
+  "duration": 92127100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iFillAllMandatoryFields()"
 });
 formatter.result({
-  "duration": 11475092900,
+  "duration": 10410413500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnRegisterButton()"
 });
 formatter.result({
-  "duration": 29300,
+  "duration": 29400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iVerifyMessageMyAccount()"
 });
 formatter.result({
-  "duration": 1057519000,
+  "duration": 1036849500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 26000,
+  "duration": 34600,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4041835000,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 43,
+  "name": "User can drag the map to see West Palm Beach Store and take screen shot",
+  "description": "",
+  "id": "automation-test-functionality;user-can-drag-the-map-to-see-west-palm-beach-store-and-take-screen-shot",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 44,
+  "name": "I am on Homepage",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 45,
+  "name": "I click on our store",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 46,
+  "name": "I move the page slider down",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 47,
+  "name": "I click on ok button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 48,
+  "name": "I click minus button twice",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 49,
+  "name": "I take screenshot",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "DeletebuttonStepdefs.iAmOnHomepage()"
+});
+formatter.result({
+  "duration": 27600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "OurStoreMapStepdefs.iClickOnOurStore()"
+});
+formatter.result({
+  "duration": 2047505000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "OurStoreMapStepdefs.iMoveThePageSliderDown()"
+});
+formatter.result({
+  "duration": 38100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "OurStoreMapStepdefs.iClickOnOkButton()"
+});
+formatter.result({
+  "duration": 93676400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "OurStoreMapStepdefs.iClickMinusButtonTwice()"
+});
+formatter.result({
+  "duration": 2142930000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "OurStoreMapStepdefs.iTakeScreenshot()"
+});
+formatter.result({
+  "duration": 345200,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 74800,
   "status": "passed"
 });
 });
