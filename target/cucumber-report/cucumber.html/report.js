@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 7329403500,
+  "duration": 10409723300,
   "status": "passed"
 });
 formatter.scenario({
@@ -62,64 +62,65 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 97171600,
+  "duration": 146891000,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iMouseHoverToWomen()"
 });
 formatter.result({
-  "duration": 176652100,
+  "duration": 193654200,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnSummerDresses()"
 });
 formatter.result({
-  "duration": 1773360500,
+  "duration": 4843474300,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnPrintedChiffonDress()"
 });
 formatter.result({
-  "duration": 3423115600,
+  "duration": 7805255000,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnAddToCart()"
 });
 formatter.result({
-  "duration": 74524700,
+  "duration": 82397000,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnProceedToCheckout()"
 });
 formatter.result({
-  "duration": 2074134200,
+  "duration": 17464913000,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnDeleteButton()"
 });
 formatter.result({
-  "duration": 94045500,
+  "duration": 84955700,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iCanSeeYourShoppingCartIsEmpty()"
 });
 formatter.result({
-  "duration": 1904940000,
-  "status": "passed"
+  "duration": 1058618300,
+  "error_message": "java.lang.AssertionError: expected [Your shopping cart is empty.] but found []\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:453)\r\n\tat org.testng.Assert.assertEquals(Assert.java:463)\r\n\tat com.automationpractice.steps.DeletebuttonStepdefs.iCanSeeYourShoppingCartIsEmpty(DeletebuttonStepdefs.java:50)\r\n\tat ✽.Then I can see Your Shopping cart is empty(src/test/java/resources/featurefile/automationTest.feature:11)\r\n",
+  "status": "failed"
 });
 formatter.after({
-  "duration": 92500,
+  "duration": 193958100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4777971700,
+  "duration": 8692754500,
   "status": "passed"
 });
 formatter.scenario({
@@ -154,36 +155,36 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 64300,
+  "duration": 23800,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iMouseHoverToWomen()"
 });
 formatter.result({
-  "duration": 221914900,
+  "duration": 162067700,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnSummerDresses()"
 });
 formatter.result({
-  "duration": 3506507600,
+  "duration": 4013072000,
   "status": "passed"
 });
 formatter.match({
   "location": "SummerDressStepdefs.iCanSeeSummerItems()"
 });
 formatter.result({
-  "duration": 39936300,
+  "duration": 45252300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 35300,
+  "duration": 67400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4841947300,
+  "duration": 7055462600,
   "status": "passed"
 });
 formatter.scenario({
@@ -228,50 +229,50 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 90700,
+  "duration": 33300,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iMouseHoverToWomen()"
 });
 formatter.result({
-  "duration": 230866500,
+  "duration": 154512800,
   "status": "passed"
 });
 formatter.match({
   "location": "DeletebuttonStepdefs.iClickOnSummerDresses()"
 });
 formatter.result({
-  "duration": 4266035100,
+  "duration": 6532362300,
   "status": "passed"
 });
 formatter.match({
   "location": "PriceRangeSliderStepdefs.iSliderChangeThePriceRange()"
 });
 formatter.result({
-  "duration": 1464220000,
+  "duration": 1480608700,
   "status": "passed"
 });
 formatter.match({
   "location": "PriceRangeSliderStepdefs.iCanSeeTheSearchResultIsUpdated()"
 });
 formatter.result({
-  "duration": 23700,
+  "duration": 35600,
   "status": "passed"
 });
 formatter.match({
   "location": "PriceRangeSliderStepdefs.iCanSeeTheItemsReturnedAreWithinThePriceRange()"
 });
 formatter.result({
-  "duration": 34641200,
+  "duration": 40862300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 14500,
+  "duration": 65400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5703749300,
+  "duration": 6195110000,
   "status": "passed"
 });
 formatter.scenario({
@@ -311,43 +312,43 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 22300,
+  "duration": 28500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnSigninLink()"
 });
 formatter.result({
-  "duration": 2914795000,
+  "duration": 3473484300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iEnterLordukuInEmailAddressField()"
 });
 formatter.result({
-  "duration": 104304100,
+  "duration": 108746500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnCreateAnAccount()"
 });
 formatter.result({
-  "duration": 87341700,
+  "duration": 76726200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iSeeTheErrorMessageInvalidEmailAddress()"
 });
 formatter.result({
-  "duration": 1154321200,
+  "duration": 1902224600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 20000,
+  "duration": 35800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5275175500,
+  "duration": 5562655900,
   "status": "passed"
 });
 formatter.scenario({
@@ -397,57 +398,57 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 40600,
+  "duration": 39200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnSigninLink()"
 });
 formatter.result({
-  "duration": 2013618300,
+  "duration": 5082153600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iEnterValidEmailAddress()"
 });
 formatter.result({
-  "duration": 111736300,
+  "duration": 107566300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnCreateAnAccount()"
 });
 formatter.result({
-  "duration": 92127100,
+  "duration": 77975800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iFillAllMandatoryFields()"
 });
 formatter.result({
-  "duration": 10410413500,
+  "duration": 16315509200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iClickOnRegisterButton()"
 });
 formatter.result({
-  "duration": 29400,
+  "duration": 46800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreasteAccountStepdefs.iVerifyMessageMyAccount()"
 });
 formatter.result({
-  "duration": 1036849500,
+  "duration": 1053628800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34600,
+  "duration": 30500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4041835000,
+  "duration": 7578668700,
   "status": "passed"
 });
 formatter.scenario({
@@ -492,46 +493,46 @@ formatter.match({
   "location": "DeletebuttonStepdefs.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 27600,
+  "duration": 23900,
   "status": "passed"
 });
 formatter.match({
   "location": "OurStoreMapStepdefs.iClickOnOurStore()"
 });
 formatter.result({
-  "duration": 2047505000,
+  "duration": 4304213800,
   "status": "passed"
 });
 formatter.match({
   "location": "OurStoreMapStepdefs.iMoveThePageSliderDown()"
 });
 formatter.result({
-  "duration": 38100,
+  "duration": 38800,
   "status": "passed"
 });
 formatter.match({
   "location": "OurStoreMapStepdefs.iClickOnOkButton()"
 });
 formatter.result({
-  "duration": 93676400,
+  "duration": 74529800,
   "status": "passed"
 });
 formatter.match({
   "location": "OurStoreMapStepdefs.iClickMinusButtonTwice()"
 });
 formatter.result({
-  "duration": 2142930000,
+  "duration": 2125815100,
   "status": "passed"
 });
 formatter.match({
   "location": "OurStoreMapStepdefs.iTakeScreenshot()"
 });
 formatter.result({
-  "duration": 345200,
+  "duration": 1223314500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 74800,
+  "duration": 33500,
   "status": "passed"
 });
 });

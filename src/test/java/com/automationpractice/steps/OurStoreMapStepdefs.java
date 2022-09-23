@@ -27,6 +27,7 @@ public class OurStoreMapStepdefs {
     }
 
     @Then("^I take screenshot$")
-    public void iTakeScreenshot() {
+    public void iTakeScreenshot() throws InterruptedException {
+        new StoreLocatorPage().getScreenShot();
     }
 }
